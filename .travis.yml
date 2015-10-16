@@ -9,7 +9,7 @@ services:
   - mongodb
 
 before_script:
-  - npm install mocha
+  - npm install mocha -g
 
 script:
-  -mocha
+  - mocha
