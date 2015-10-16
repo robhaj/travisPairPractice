@@ -1,3 +1,5 @@
+//config file for mongo
+
 var config = {};
 
 config.mongoURI = {
